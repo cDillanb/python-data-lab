@@ -71,12 +71,12 @@ else:
 # Problem 11
 # Create a variable called 'changeMyMind' and set it equal to true. 
 # Check to see if changeMyMind is set to true or false, if it is true, change the status to false, if it is false, change the status to true.
-changeMyMind = True
+change_my_mind = True
 
-if changeMyMind == True:
-    changeMyMind = False
+if change_my_mind == True:
+    change_my_mind = False
 else:
-    changeMyMind = True
+    change_my_mind = True
 
 # ADVANCED
 
